@@ -1,7 +1,7 @@
-package com.example.test_lab_week_12
+package com.example.lab_week_13
 
 import android.app.Application
-import com.example.test_lab_week_12.api.MovieService
+import com.example.lab_week_13.api.MovieService
 import com.squareup.moshi.Moshi
 import com.squareup.moshi.kotlin.reflect.KotlinJsonAdapterFactory
 import retrofit2.Retrofit

@@ -13,11 +13,12 @@ if (localPropertiesFile.exists()) {
 }
 
 android {
-    namespace = "com.example.test_lab_week_12"
+    namespace = "com.example.lab_week_13"
     compileSdk = 36
 
     buildFeatures {
         buildConfig = true
+        dataBinding = true
     }
 
     defaultConfig {
